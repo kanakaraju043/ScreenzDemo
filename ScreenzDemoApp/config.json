@@ -1,0 +1,16 @@
+{
+    "pids": [36,50,54,55],
+    "dev_env" : false,
+    "gcmSenderId": "568882102079",
+    "video_upload_key" : "HNPUzDyQ7tPKtC9YnvHz",
+    "os": {
+        "ios": {
+            "app_status_bar_hidden":false,
+            "notifications_enabled":true,
+            "web_data_mode":"production"
+        }
+    },
+    "glossary": {
+        "noConnectionError": "Please check your internet connection"
+    }
+}

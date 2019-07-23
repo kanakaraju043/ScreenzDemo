@@ -1,0 +1,6 @@
+framework module Pods_ScreenzDemoApp {
+  umbrella header "Pods-ScreenzDemoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
